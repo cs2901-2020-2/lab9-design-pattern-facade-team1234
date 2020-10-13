@@ -1,3 +1,4 @@
-public class HomeTheaterFacade {
+
+public class HomeTheaterFacade{
 
 }
