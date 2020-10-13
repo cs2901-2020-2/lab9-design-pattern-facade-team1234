@@ -5,15 +5,15 @@ public class HomeTheaterFacade {
     Projector projector;
     Screen screen;
     TheaterLights theaterLights;
-    PopCornPopper popCornPopper;
+    PopcornPopper popCornPopper;
 
     public HomeTheaterFacade () {}
 
     public void PlayMovie () {
-        Amplifier.On ();
+        //proceso
     }
 
     public void EndMovie () {
-
+        //proceso
     }
 }
